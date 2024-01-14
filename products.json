@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name":" AMERICANO",
+        "price": 20000,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" LATTE",
+        "price": 25000,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" WHITE CHOCOLATE MOCHA",
+        "price": 29000,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" CARAMEL MACCHIATO",
+        "price": 35000,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" CAPPUCCINO",
+        "price": 30000,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" VANILLA SWEET CREAM COLD BREW",
+        "price": 30000,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" CARAMEL FRAPPUCINO",
+        "price": 35000,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" COOKIES AND CREAM FRAPPUCINO",
+        "price": 35000,
+        "image": "image/8.png"
+    },
+    {
+        "id": 9,
+        "name":" ICED GREEN TEA LATTE",
+        "price": 35000,
+        "image": "image/9.png"
+    },
+    {
+        "id": 10,
+        "name":" ICED SHAKEN PASSION LEMON TEA",
+        "price": 35000,
+        "image": "image/10.png"
+    }
+
+]
